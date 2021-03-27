@@ -1,0 +1,10 @@
+@import url(./__heading/two-columns__heading.css);
+@import url(./__span-accent/two-columns__span-accent.css);
+@import url(./__main-text/two-columns__main-text.css);
+@import url(./__paragraph/two-columns__paragraph.css);
+
+.two-columns{
+    width: 80%;      
+   display:flex;
+   justify-content: space-between;  
+}

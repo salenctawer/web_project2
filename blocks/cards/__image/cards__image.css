@@ -1,0 +1,6 @@
+@import url(./_size/cards__image_size_fixed.css);
+.cards__image{
+    list-style-type:none ;
+    margin: 0 40px 0 40px;
+    
+}
