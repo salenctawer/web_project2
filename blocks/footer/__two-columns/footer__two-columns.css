@@ -1,0 +1,15 @@
+.footer__two-columns{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 3px;
+    text-decoration: none;
+    
+}
+.footer__two-columns:last-child{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 0;
+}
