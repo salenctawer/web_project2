@@ -16,10 +16,7 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/footer/footer.css);
 
-h2,h3,h4,h5,h6,p{
-    margin: 0;
-    padding: 0;
-}
+
 @keyframes rotate{
     0% {
         transform: rotate(0);
@@ -28,9 +25,10 @@ h2,h3,h4,h5,h6,p{
         transform: rotate(360deg);
     }
 }
-a{
+
+.link-transition{
     transition:  0.1s linear ;
 }
-a:hover{
+.link-hover:hover{
     opacity: 0.3;
 }

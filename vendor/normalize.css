@@ -7,6 +7,10 @@
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
+ h2,h3,h4,h5,h6,p{
+  margin: 0;
+  padding: 0;
+}
 
 html {
   line-height: 1.15; /* 1 */
