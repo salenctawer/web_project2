@@ -16,7 +16,6 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/footer/footer.css);
 
-
 @keyframes rotate{
     0% {
         transform: rotate(0);
